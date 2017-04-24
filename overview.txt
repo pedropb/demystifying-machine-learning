@@ -1,9 +1,9 @@
 - Resumo:
 Desmistificando Machine Learning.
 
-O objetivo dessa apresentação é mostrar que Machine Learning não é uma coisa de outro mundo
-
-
+O objetivo dessa apresentação é mostrar que Machine Learning não é uma coisa de outro mundo.
+Vamos pegar alguns exemplos do que a mídia cita como grandes invenções e destrinchá-los de forma
+a torná-los palatável para o ouvinte comum.
 
 
 - Desmistificando Machine Learning
