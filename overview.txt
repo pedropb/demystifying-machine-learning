@@ -1,0 +1,57 @@
+- Resumo:
+Desmistificando Machine Learning.
+
+O objetivo dessa apresentação é mostrar que Machine Learning não é uma coisa de outro mundo
+
+
+
+
+- Desmistificando Machine Learning
+	- Foto do Mr. M
+
+- WHY (study) ?
+- Porquê estudar Machine Learning?
+	- Magia vs Tecnologia
+	- Google fazendo mágica
+	- Notícias sensacionalistas
+		- IBM Kasparov
+		- Alpha Go e Go
+		- Máquinas fazem diagnósticos melhores que médicos
+		- Máquinas fazem interpretação de contratos melhor que advogados
+		- Máquinas fazendo sentenças judiciais
+		- Máquinas do google desenham redes neurais melhor que PhDs
+		- Carros autônomos
+		- Bill Gates quer taxar robôs
+	- Conclusões absurdas
+		- Mundo totalmente pacífico
+		- Mundo totalmente caótico
+	- Onde não podemos chegar
+		- Blackbox model. É assim porque a máquina falou que é (ex: empréstimos, seguros de saúde, julgamentos, racismo)
+	- Onde devemos chegar
+		- Centaur Chess. Modelo homem + máquina superando tanto o especialista, quanto a máquina.
+		- Qual a melhor forma de descobrir o que é?
+
+- HOW (it works) ?
+- O que é Machine Learning?
+	- Áreas de Machine Learning
+	- Explicação sobre o que é Machine Learning:
+
+	The classical definition is that it is the study of algorithms that infer the function they compute from example data.
+		- Exemplo SOMA
+		- Exemplo 2: reconhecimento de pessoas
+
+	(https://www.quora.com/What-is-machine-learning-4)
+
+- Tipos de Machine Learning
+	- Supervised
+	- Unsupervised
+	- Reinforcement
+	- Deep Learning
+
+- WHAT (it really is) ?
+
+- Hands-on
+	- Mostrar códigos de como criar exemplos em Supervised, Unsupervised, Reinforcement e Deep Learning
+	- Mostrar screenshots de documentação Tensorflow, Keras, Scikit-Learn
+
+- Applications of Machine Learning (quora Google engineer answer with lots of examples)
