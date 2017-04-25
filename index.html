@@ -2,33 +2,90 @@
 <html lang="en">	
 <head>
 	<meta charset="utf-8">
-	<title>Reveal.js 3 Slide Demo</title>
+	<title>Demystifying Machine Learning</title>
 	<link rel="stylesheet" href="css/reveal.min.css">
-	<link rel="stylesheet" href="css/theme/default.css" id="theme">	
-	<!--Add support for earlier versions of Internet Explorer -->
-	<!--[if lt IE 9]>
-	<script src="lib/js/html5shiv.js"></script>
-	<![endif]-->
+    <link rel="stylesheet" href="css/style.css">
+	<link rel="stylesheet" href="css/themes/league.css" id="theme">	
 </head>
 
 <body>
-	<!-- Wrap the entire slide show in a div using the "reveal" class. -->
 	<div class="reveal">
-		<!-- Wrap all slides in a single "slides" class -->
 		<div class="slides">
 
-			<!-- ALL SLIDES GO HERE -->
-			<!-- Each section element contains an individual slide -->
-			<section>
-				<h1>About My Product</h1>
-				<p>My product discussed here</p>		
+			<section id="intro">
+				<h2>Desmistificando <br />Machine Learning</h1>
+                <img width="500" height="300" data-src="images/crystal-ball.jpg" alt="Crystall ball"/>
 			</section>
 
-			<section id="show-a-link">
-				<h1>Show a live link</h1>
-				<p>Slide 2 discussed here</p>
-				<p>See <a href="http://www.htmlcheats.com">HTMLCheats.com</a><p>
+			<section id="why">
+				<h1>Why ?</h1>
 			</section>
+
+			<section id="arthur-quote">
+                <div class="flex-row-container">
+                <div style="margin: auto;">
+                    <quote>"Any sufficiently advanced technology is indistinguishable from magic."</quote>
+                    <p> - Arthur C. Clarke</p>
+                </div>
+                <a href="https://en.wikipedia.org/wiki/Clarke%27s_three_laws" target="_blank"><img style="margin-left: 30px;" data-src="images/clarke.jpg" alt="Arthur Clarke"/></a>
+                </div>
+			</section>
+
+			<section id="google-preview">
+                <a href="https://www.google.com/?q=what+is+the+answer+to+life+the+universe+and+everything" target="_blank"> <img data-src="images/answer-to-life.png" alt="Google Search Preview"/></a>
+            </section>
+
+			<section id="gmail-answer">
+                <a href="https://research.googleblog.com/2015/11/computer-respond-to-this-email.html" target="_blank"> <img data-src="images/gmail-answer.png" alt="Gmail Answers"/></a>
+            </section>
+
+			<section id="x-ai">
+                <a href="https://x.ai" target="_blank"> <img data-src="images/x-ai.png" alt="x.ai"/></a>
+            </section>
+
+			<section id="uber-driverless">
+                <a href="https://www.bloomberg.com/news/features/2016-08-18/uber-s-first-self-driving-fleet-arrives-in-pittsburgh-this-month-is06r7on" target="_blank"> <img data-src="images/uber-driverless.png" alt="Uber’s First Self-Driving Fleet Arrives in Pittsburgh This Month"/></a>
+            </section>
+
+			<section id="cancer-diagnosis-stanford">
+                <a href="http://www.bbc.com/news/health-38717928" target="_blank"> <img data-src="images/cancer-diagnosis-stanford.png" alt="Stanford Cancer Diagnosis"/></a>
+            </section>
+
+			<section id="bloomberg-contracts">
+                <a href="https://www.bloomberg.com/news/articles/2017-02-28/jpmorgan-marshals-an-army-of-developers-to-automate-high-finance" target="_blank"> <img data-src="images/bloomberg-contracts.png" alt="JPMorgan Software Does in Seconds What Took Lawyers 360,000 Hours"/></a>
+            </section>
+
+			<section id="ars-technica-human-rights">
+                <a href="https://arstechnica.com/tech-policy/2016/10/artificial-intelligence-british-scientists-predicts-human-rights-rulings/" target="_blank"> <img data-src="images/ars-technica-human-rights.png" alt="AI judge created by British scientists can predict human rights rulings"/></a>
+            </section>
+
+			<section id="upgrade-judges">
+                <a href="https://www.technologyreview.com/s/603763/how-to-upgrade-judges-with-machine-learning/" target="_blank"> <img data-src="images/upgrade-judges.png" alt="How to Upgrade Judges with Machine Learning"/></a>
+            </section>
+
+			<section id="wired-courts">
+                <a href="https://www.wired.com/2017/04/courts-using-ai-sentence-criminals-must-stop-now/" target="_blank"> <img data-src="images/wired-courts.png" alt="Courts Are Using AI to Sentence Criminals. That Must Stop Now"/></a>
+            </section>
+
+			<section id="scientific-american-survive">
+                <a href="https://www.scientificamerican.com/article/will-democracy-survive-big-data-and-artificial-intelligence/" target="_blank"> <img data-src="images/scientific-american-survive.png" alt="Will Democracy Survive Big Data and Artificial Intelligence?"/></a>
+            </section>
+
+			<section id="quartz-bill-gates">
+                <a href="https://qz.com/911968/bill-gates-the-robot-that-takes-your-job-should-pay-taxes/" target="_blank"> <img data-src="images/quartz-bill-gates.png" alt="The robot that takes your job should pay taxes, says Bill Gates"/></a>
+            </section>
+
+			<section id="mit-technology-review">
+                <a href="https://www.technologyreview.com/s/603381/ai-software-learns-to-make-ai-software/" target="_blank"> <img data-src="images/mit-technology-review.png" alt="AI Software Learns to Make AI Software"/></a>
+            </section>
+
+			<section id="terminator">
+                <a href="https://en.wikipedia.org/wiki/The_Terminator" target="_blank"> <img data-src="images/terminator.jpg" alt="Terminator"/></a>
+            </section>
+
+			<section id="jetsons">
+                <a href="https://en.wikipedia.org/wiki/Jetsons" target="_blank"> <img data-src="images/jetsons.jpg" alt="Jetsons"/></a>
+            </section>
 
 			<section>
 				<h1>Slide 3</h1>
@@ -44,6 +101,7 @@
 	<script>
 		// Required, even if empty.
 		Reveal.initialize({
+            transition: 'concave'
 		});
 	</script>
 </body>

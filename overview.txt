@@ -16,20 +16,15 @@ a torná-los palatável para o ouvinte comum.
 	- Notícias sensacionalistas
 		- IBM Kasparov
 		- Alpha Go e Go
+		- Uber Carros autônomos
 		- Máquinas fazem diagnósticos melhores que médicos
 		- Máquinas fazem interpretação de contratos melhor que advogados
 		- Máquinas fazendo sentenças judiciais
-		- Máquinas do google desenham redes neurais melhor que PhDs
-		- Carros autônomos
 		- Bill Gates quer taxar robôs
+		- Máquinas do google desenham redes neurais melhor que PhDs
 	- Conclusões absurdas
 		- Mundo totalmente pacífico
 		- Mundo totalmente caótico
-	- Onde não podemos chegar
-		- Blackbox model. É assim porque a máquina falou que é (ex: empréstimos, seguros de saúde, julgamentos, racismo)
-	- Onde devemos chegar
-		- Centaur Chess. Modelo homem + máquina superando tanto o especialista, quanto a máquina.
-		- Qual a melhor forma de descobrir o que é?
 
 - HOW (it works) ?
 - O que é Machine Learning?
@@ -55,3 +50,12 @@ a torná-los palatável para o ouvinte comum.
 	- Mostrar screenshots de documentação Tensorflow, Keras, Scikit-Learn
 
 - Applications of Machine Learning (quora Google engineer answer with lots of examples)
+
+
+Espécie de conclusão:
+
+		
+	- Onde não podemos chegar
+		- Blackbox model. É assim porque a máquina falou que é (ex: empréstimos, seguros de saúde, julgamentos, racismo)
+	- Onde devemos chegar
+		- Centaur Chess. Modelo homem + máquina superando tanto o especialista, quanto a máquina.
